@@ -1,0 +1,9 @@
+Projects to do:
+
+Resolvedor de matrizes;
+Runge Kuta 1 ou 2;
+Aprender numpy;
+Aprender matplotlib;
+Algoritmos de optimização de sistemas massivos;
+camara tracking;
+Simulador de gravidade;
